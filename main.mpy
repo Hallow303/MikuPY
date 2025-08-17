@@ -1,0 +1,11 @@
+bot "MeuBot" prefixo = "!"
+token="SEUTOKEN"
+
+command ola: 
+    reply "Olá, mundo!" 
+
+command ping: 
+    reply "Pong!" 
+
+command user: 
+    reply "{user_name} Olá"
