@@ -1,4 +1,5 @@
 # 📘 MikuPy v1 – Documentação
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## 1️⃣ Introdução
 **MikuPy** é uma linguagem simplificada para criar bots do Discord usando Python.  
@@ -127,3 +128,4 @@ Atualmente ainda estou aprendendo **Programação Orientada a Objetos (POO)**, q
 - O código atual da versão 1 ainda não faz uso extensivo de POO.  
 - Algumas implementações futuras podem mudar à medida que eu aprendo e aplico novos conceitos.  
 - Portanto, esta versão deve ser vista como **experimental** e em contínuo desenvolvimento.
+
